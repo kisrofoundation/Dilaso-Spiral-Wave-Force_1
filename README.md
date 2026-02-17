@@ -1,2 +1,2 @@
-# Dilaso-Spiral-Wave-Force_1
+# Dilaso Spiral Wave Force Equation 
 
