@@ -39,6 +39,7 @@ references.bib
 .github/
    workflows/
       latex.yml
+      
 
 name: Build and Commit Versioned PDF
 
