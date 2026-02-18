@@ -1,3 +1,9 @@
+## Archival Information
+
+- DOI: 10.5281/zenodo.18673486
+- Software Heritage ID: swh:1:dir:946c3b2a089514adb94e1e2fabbe...
+- Indexed in: OpenAIRE
+
 # Dilaso Spiral Wave Force Equation 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18673486.svg)](https://doi.org/10.5281/zenodo.18673486)
